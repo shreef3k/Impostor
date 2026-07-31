@@ -6,7 +6,7 @@ There are currently two install methods for Impostor: You can install it normall
 
 This section applies to both the normal installation as well as the Docker (Compose) installation
 
-To connect to the server, you need to configure and install a region file on https://impostor.github.io/Impostor/
+To connect to the server, you need to configure and install a region file on https://shreef3k.github.io/Impostor/
 
 Among Us connects to the server using two network services: the (TCP) HTTP service points Among Us to the UDP service, then the UDP service hosts the actual game traffic. Because of this, Impostor uses port 22023 using **both** the TCP and UDP protocols.
 
